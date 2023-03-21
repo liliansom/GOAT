@@ -4,21 +4,23 @@ No futebol o termo GOAT (em inglês: Greatest Of All Time), ou seja, o melhor de
 Nesta competição será realizada uma análise exploratória dos dados de gols e títulos dos jogadores e serão atribuídos pontos. As regras da competição serão as seguintes:
 
 1) Contagem de pontos:<br>
+
 Para cada TÍTULO ganho serão contabilizados:<br>
 
- 1 ponto por Título,<br>
- 5 pontos, caso o Título seja Individual<br>
+ * 1 ponto por Título,<br>
+ * 5 pontos, caso o Título seja Individual<br>
  
  
 Para cada GOL realizado serão contabilizados:<br>
 
- 1 ponto por gol em rodadas de grupo,<br>
- 2 pontos por gol em rodadas dos 16 melhores,<br>
- 3 pontos por gol em quartas de final,<br>
- 4 pontos por gol em semi-finais,<br>
- 5 pontos por gol em finais.<br>
+ * 1 ponto por gol em rodadas de grupo,<br>
+ * 2 pontos por gol em rodadas dos 16 melhores,<br>
+ * 3 pontos por gol em quartas de final,<br>
+ * 4 pontos por gol em semi-finais,<br>
+ * 5 pontos por gol em finais.<br>
 
 2) Definição dos Campeonatos:<br>
+
 Apenas serão contabilizados os gols dos campeonatos em que os dois jogadores participaram.<br>
 
 Quem será o ganhador desta competição?
@@ -41,7 +43,8 @@ Este projeto será uma grande oportunidade para melhorar a análise de dados uti
 
 
 # Como Utilizar
-1. Anaconda/ Jupyter
+1. Anaconda/ Jupyter<br>
+
 Clonar este repositório para o seu Github.<br>
 Importar o repositório para uma pasta de seu computador.<br>
 Realizar a instalação do programa Anaconda, instalar o Python 3.9 e, dentro de Anaconda Navigator, realizar o download do Jupyter.<br>
@@ -55,18 +58,18 @@ Abrir Jupyter Notebook no Anaconda.<br>
 Procurar pela pasta do repositório.<br>
 Abrir os documentos citados acima.<br>
 Apertar em 'RUN'.<br>
-Após este passo, o programa irá rodar todos as tabelas e gráficos disponíveis.
+Após este passo, o programa irá rodar todos as tabelas e gráficos disponíveis.<br>
 
-2) Google Colab
-Caso não deseje clonar todo esse repositório, também será disponibilizado um arquivo no Google Colab.
-Clique aqui para acessar o arquivo!
+2) Google Colab<br>
+
+Caso não deseje clonar todo esse repositório, também será disponibilizado um arquivo no Google Colab.<br>
+
 <a class="nav-link" href="https://colab.research.google.com/drive/1d5winM5KHz3HZ1m_B4bIg7D2TD-RIgK0?usp=share_link" target="_blank">Clique aqui para acessar o arquivo!</a><br>
 
 
 # Resultados
-Clique aqui e veja quem ganhou o título de GOAT nesta competição.
 <a class="nav-link" href="https://github.com/liliansom/GOAT/img/MessiGOAT.jpg" target="_blank">Clique aqui e veja a foto de quem ganhou o título de GOAT nesta competição.</a><br>
 
 # Andamento do projeto:
-Em andamento.
+Em andamento.<br>
 Data de entrega: 22/03/2023 <br>
