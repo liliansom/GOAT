@@ -63,6 +63,7 @@ Após este passo, o programa irá rodar todos as tabelas e gráficos disponívei
 2) Google Colab<br>
 
 Caso não deseje clonar todo esse repositório, também será disponibilizado um arquivo no Google Colab.<br>
+Você só precisará clicar no link e clicar em "Ambiente de execução" e, em seguida, "Executar tudo".<br>
 
 <a class="nav-link" href="https://colab.research.google.com/drive/1d5winM5KHz3HZ1m_B4bIg7D2TD-RIgK0?usp=share_link" target="_blank">Clique aqui para acessar o arquivo!</a><br>
 
