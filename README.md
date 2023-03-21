@@ -60,10 +60,12 @@ Após este passo, o programa irá rodar todos as tabelas e gráficos disponívei
 2) Google Colab
 Caso não deseje clonar todo esse repositório, também será disponibilizado um arquivo no Google Colab.
 Clique aqui para acessar o arquivo!
+<a class="nav-link" href="https://colab.research.google.com/drive/1d5winM5KHz3HZ1m_B4bIg7D2TD-RIgK0?usp=share_link" target="_blank">Clique aqui para acessar o arquivo!</a><br>
+
 
 # Resultados
-Veja quem ganhou o título de GOAT nesta competição.
-
+Clique aqui e veja quem ganhou o título de GOAT nesta competição.
+<a class="nav-link" href="https://github.com/liliansom/GOAT/img/MessiGOAT.jpg" target="_blank">Clique aqui e veja a foto de quem ganhou o título de GOAT nesta competição.</a><br>
 
 # Andamento do projeto:
 Em andamento.
