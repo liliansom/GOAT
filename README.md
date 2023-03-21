@@ -52,23 +52,24 @@ Os dados estão disponíveis na pasta 'data' neste repositório, sendo:
     <li> Dados dos gols: cristiano_vs_messi.csv</li>
     <li> Dados de títulos do Cristiano Ronaldo: CR.csv</li>
     <li> Dados de títulos do Lionel Messi: LM.csv</li>
-    
+
 No prompt do Anaconda, realizar o download das bibliotecas Pandas e Matplotlib.<br>
 Abrir Jupyter Notebook no Anaconda.<br>
 Procurar pela pasta do repositório.<br>
-Abrir os documentos citados acima.<br>
+Alterar o nome do caminho dos arquivos na segunda linha na etapa de importação dos dados selecionando o nome do caminho de seu computador.<br>
 Apertar em 'RUN'.<br>
 Após este passo, o programa irá rodar todos as tabelas e gráficos disponíveis.<br>
 
 2) Google Colab<br>
 
 Caso não deseje clonar todo esse repositório, também será disponibilizado um arquivo no Google Colab.<br>
-Você só precisará clicar no link e clicar em "Ambiente de execução" e, em seguida, "Executar tudo".<br>
+Você só precisará clicar no link abaixo e clicar em "Ambiente de execução" e, em seguida, "Executar tudo".<br>
 
 <a class="nav-link" href="https://colab.research.google.com/drive/1d5winM5KHz3HZ1m_B4bIg7D2TD-RIgK0?usp=share_link" target="_blank">Clique aqui para acessar o arquivo!</a><br>
 
 
 # Resultados
+
 <a class="nav-link" href="https://github.com/liliansom/GOAT/img/MessiGOAT.jpg" target="_blank">Clique aqui e veja a foto de quem ganhou o título de GOAT nesta competição.</a><br>
 
 # Andamento do projeto:
