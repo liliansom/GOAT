@@ -75,7 +75,7 @@ Quer dar uma conferida nos dados utilizados?
 
 # Resultados
 
-<a class="nav-link" href="https://github.com/liliansom/GOAT/img/MessiGOAT.jpg" target="_blank">Clique aqui e veja a foto de quem ganhou o título de GOAT nesta competição.</a><br>
+<a class="nav-link" href="https://github.com/liliansom/GOAT/blob/main/img/MessiGOAT.jpg" target="_blank">Clique aqui e veja a foto de quem ganhou o título de GOAT nesta competição.</a><br>
 
 # Andamento do projeto:
 Entregue.<br>
