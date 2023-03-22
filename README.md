@@ -65,7 +65,12 @@ Após este passo, o programa irá rodar todos as tabelas e gráficos disponívei
 Caso não deseje clonar todo esse repositório, também será disponibilizado um arquivo no Google Colab.<br>
 Você só precisará clicar no link abaixo e clicar em "Ambiente de execução" e, em seguida, "Executar tudo".<br>
 
-<a class="nav-link" href="https://colab.research.google.com/drive/1d5winM5KHz3HZ1m_B4bIg7D2TD-RIgK0?usp=share_link" target="_blank">Clique aqui para acessar o arquivo!</a><br>
+<a class="nav-link" href="https://colab.research.google.com/drive/1_GjkVmAnMNiqW_PWV-j-nzJeb_Pv0ZOb?usp=share_link" target="_blank">Clique aqui para acessar o arquivo!</a><br>
+
+
+3) Power BI<br>
+Quer dar uma conferida nos dados utilizados?
+<a class="nav-link" href="https://github.com/liliansom/GOAT/blob/main/GOAT_PBI.pbix" target="_blank">Clique aqui e faça o download do arquivo Power BI dos dados!</a><br>
 
 
 # Resultados
@@ -73,5 +78,4 @@ Você só precisará clicar no link abaixo e clicar em "Ambiente de execução" 
 <a class="nav-link" href="https://github.com/liliansom/GOAT/img/MessiGOAT.jpg" target="_blank">Clique aqui e veja a foto de quem ganhou o título de GOAT nesta competição.</a><br>
 
 # Andamento do projeto:
-Em andamento.<br>
-Data de entrega: 22/03/2023 <br>
+Entregue.<br>
