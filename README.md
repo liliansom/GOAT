@@ -42,7 +42,13 @@ Desenvolvido com:<br>
 Este projeto será uma grande oportunidade para melhorar a análise de dados utilizando as bibliotecas Pandas e Matplotlib do Python.
 
 
-# Como Utilizar
+# Arquivos
+O arquivo "GOAT.ipynb" contém todo o conteúdo de análise e tratamento dos dados, é o arquivo onde foi construída toda a competição.
+O arquivo "GOAT_COlab" foi criado no Google Colab e foi trancrito para a nuvem para quem não possui Jupyter em seu computador, facilitando a visualização dos dados.
+Já o arquivo "GOAT_PBI" é um arquivo em Power BI para análise dos dados (para, quem tiver o desejo, poder visualizar facilmente os dados).
+
+## Acessando o Arquivo GOAT:
+
 1. Anaconda/ Jupyter<br>
 
 Clonar este repositório para o seu Github.<br>
@@ -60,6 +66,8 @@ Alterar o nome do caminho dos arquivos na segunda linha na etapa de importação
 Apertar em 'RUN'.<br>
 Após este passo, o programa irá rodar todos as tabelas e gráficos disponíveis.<br>
 
+<img src='tela_GOAT.png'>
+
 2) Google Colab<br>
 
 Caso não deseje clonar todo esse repositório, também será disponibilizado um arquivo no Google Colab.<br>
@@ -68,10 +76,17 @@ Você só precisará clicar no link abaixo e clicar em "Ambiente de execução" 
 <a class="nav-link" href="https://colab.research.google.com/drive/1_GjkVmAnMNiqW_PWV-j-nzJeb_Pv0ZOb?usp=share_link" target="_blank">Clique aqui para acessar o arquivo!</a><br>
 
 
-3) Power BI<br>
+## Acessando o Arquivo GOAT:
+
+1) Power BI<br>
 Quer dar uma conferida nos dados utilizados?
+Você irá precisar realizar o download do Power BI em seu computador para conseguir visualizar este arquivo...
 <a class="nav-link" href="https://github.com/liliansom/GOAT/blob/main/GOAT_PBI.pbix" target="_blank">Clique aqui e faça o download do arquivo Power BI dos dados!</a><br>
 
+<img src='tela_PBI1.png'>
+
+
+<img src='tela_PBI1.png'>
 
 # Resultados
 
