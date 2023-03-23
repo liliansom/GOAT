@@ -66,7 +66,7 @@ Alterar o nome do caminho dos arquivos na segunda linha na etapa de importação
 Apertar em 'RUN'.<br>
 Após este passo, o programa irá rodar todos as tabelas e gráficos disponíveis.<br>
 
-<img src="img/tela_GOAT.png", width='50%'>
+<img src="img/tela_GOAT.png", width="50%">
 
 2) Google Colab<br>
 
