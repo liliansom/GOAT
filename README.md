@@ -66,7 +66,7 @@ Alterar o nome do caminho dos arquivos na segunda linha na etapa de importação
 Apertar em 'RUN'.<br>
 Após este passo, o programa irá rodar todos as tabelas e gráficos disponíveis.<br>
 
-<img src='tela_GOAT.png'>
+<img src="tela_GOAT.png">
 
 2) Google Colab<br>
 
@@ -83,10 +83,10 @@ Quer dar uma conferida nos dados utilizados?
 Você irá precisar realizar o download do Power BI em seu computador para conseguir visualizar este arquivo...
 <a class="nav-link" href="https://github.com/liliansom/GOAT/blob/main/GOAT_PBI.pbix" target="_blank">Clique aqui e faça o download do arquivo Power BI dos dados!</a><br>
 
-<img src='tela_PBI1.png'>
+<img src="tela_PBI1.png">
 
 
-<img src='tela_PBI1.png'>
+<img src="tela_PBI1.png">
 
 # Resultados
 
