@@ -1,6 +1,6 @@
 # Competição GOAT: Quem é o melhor jogador?
 ## ETL
-Este é um projeto de ETL utilizando os com dados do Kaggle dos gols dos jogadores Cristiano Ronaldo e Lionel Messi.<br>
+Este é um projeto de ETL para definir quem é o melhor jogador: Cristiano Ronaldo x Lionel Messi.<br>
 Segundo o artigo da Google Cloud*, ETL é a sigla para o processo de extrair, transformar e carregar (Extract, Transform and Load). É uma forma tradicionalmente aceita para que as organizações combinem dados de vários sistemas em um único banco de dados, repositório de dados, armazenamento de dados ou data lake. 
 
 ## Apresentação
@@ -29,7 +29,7 @@ Apenas serão contabilizados os gols dos campeonatos em que os dois jogadores pa
 
 Quem será o ganhador desta competição?
 
-# Informações (Extract)
+# Informações
 Para realizar esta competição foram utilizados: Python, as bibliotecas Pandas e Matplotlib e a técnica do storytelling.<br>
 A biblioteca Pandas será utilizada para importar os dados para o arquivo e, também, para tratar os dados. A biblioteca Matplotlib será utilizada para plotagem dos gráficos dos dados.
 
