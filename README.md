@@ -1,5 +1,9 @@
 # Competição GOAT: Quem é o melhor jogador?
-Este é um projeto de análise de dados utilizando os com dados do Kaggle dos gols dos jogadores Cristiano Ronaldo e Lionel Messi.<br>
+## ETL
+Este é um projeto de ETL utilizando os com dados do Kaggle dos gols dos jogadores Cristiano Ronaldo e Lionel Messi.<br>
+Segundo o artigo da Google Cloud*, ETL é a sigla para o processo de extrair, transformar e carregar (Extract, Transform and Load). É uma forma tradicionalmente aceita para que as organizações combinem dados de vários sistemas em um único banco de dados, repositório de dados, armazenamento de dados ou data lake. 
+
+## Apresentação
 No futebol o termo GOAT (em inglês: Greatest Of All Time), ou seja, o melhor de todos os tempos, tem sido usado por décadas pela imprensa estadunidense para se referir a um atleta que marca uma determinada era.
 Nesta competição será realizada uma análise exploratória dos dados de gols e títulos dos jogadores e serão atribuídos pontos. As regras da competição serão as seguintes:
 
@@ -25,7 +29,7 @@ Apenas serão contabilizados os gols dos campeonatos em que os dois jogadores pa
 
 Quem será o ganhador desta competição?
 
-# Informações
+# Informações (Extract)
 Para realizar esta competição foram utilizados: Python, as bibliotecas Pandas e Matplotlib e a técnica do storytelling.<br>
 A biblioteca Pandas será utilizada para importar os dados para o arquivo e, também, para tratar os dados. A biblioteca Matplotlib será utilizada para plotagem dos gráficos dos dados.
 
@@ -39,7 +43,7 @@ Desenvolvido com:<br>
 <li>Dados dos gols referentes aos atletas Lionel Messi e Cristiano Ronaldo, https://www.kaggle.com/datasets/ahmedterry/cristiano-ronald-vs-lionel-messi-weekly-updated;</li>
 <li>Dados de títulos ganhos por cada jogador do site https://www.transfermarkt.pt/.</li>
 
-Este projeto será uma grande oportunidade para melhorar a análise de dados utilizando as bibliotecas Pandas e Matplotlib do Python.
+Este projeto será uma grande oportunidade para aprender a implementar um ETL utilizando as bibliotecas Pandas e Matplotlib do Python e o Power BI para apresentação dos dados.
 
 
 # Arquivos
@@ -94,3 +98,5 @@ Você irá precisar realizar o download do Power BI em seu computador para conse
 
 # Andamento do projeto:
 Entregue.<br>
+
+* https://cloud.google.com/learn/what-is-etl?hl=pt-br#:~:text=ETL%20%C3%A9%20a%20sigla%20para,de%20dados%20ou%20data%20lake.
